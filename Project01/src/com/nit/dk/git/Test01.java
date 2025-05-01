@@ -5,7 +5,6 @@ public class Test01 {
 		System.out.println("hello");//dk
 		System.out.println("hello");//hari
 		System.out.println("Dinesh");//amit
-		System.out.println("jay");
 		
 		
 	}
